@@ -55,3 +55,28 @@ Metáfora: Problema da Aprovação de crédito
 - Aprovar crédito?
   - se for muito rigoroso vai ter pouca venda mas pouca inadiplência
   - se for rigoroso vai ter muita venda mas muita inadiplência
+
+## Componentes do aprendizado
+
+<img src=".assets/comp.jpg">
+
+<img src=".assets/comp2.jpg">
+
+<img src=".assets/comp3.jpg">
+
+- Principal preocupação
+
+  - Contrução de progrmas de computador que melhoram seu desempenho por meio de experiência
+  
+- Técnicas orientadas a dados
+
+  - Aprendem automaticamente a partir de grandes volumes de dados.
+  - Geração de hipóteses a partir dos dados
+  
+
+```
+- Raciocínio indutivo - Parte dos exemplos que vai falhando...até deduzir algo
+
+- Racioncínio dedutivo - Existe os axiomas apartir dele você vai deduz algo
+```
+
