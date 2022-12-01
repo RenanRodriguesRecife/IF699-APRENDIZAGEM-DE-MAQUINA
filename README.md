@@ -29,6 +29,22 @@
 
 - Avaliação de Hipóteses
 
+Cursos na web
+- Learning from Data
+  - Yaser S. Abu-Mostafa
+  - Caltech
+  - https://work.caltech.edu/telecourse
+- Machine Learning
+  - Andrew Ng
+  - Stanford
+  - https://www.youtube.comwatchv=qeHZOdmJvFU&list=PLZ9qNFMHZA4rycgrgOYma6zxF4BZGGPW&index=1
+- Data Mining and Machine Learning
+  - Wagner Meira
+  - UFMG
+  - https://www.youtube.com/channel/UCUN8yMTrizS5GGaGnyj9y g/featured
+- Videos do Prof. Hansenclever (CIn/UFPE)
+  - https://www.youtube.com/playlist?list=PL4-neXto5bGUpsE4FpO7T6BkLaSx_pyie
+
 
 Bibliografia Básica
 
