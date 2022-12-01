@@ -35,3 +35,23 @@ determinada tarefa sem instruir explicitamente como faze-lo
 
 
 - AM ⊂ IA ⊂ CS (aprendizagem de máquina é um subconjunto da inteligência artificial e a inteligência artificial é um subconjunto da ciencia da computação)
+
+
+## O problema do aprendizado
+
+- Exemplo: Prever como um usuário avalia um filme
+- A Netflix está premiando com 1 milhão de dólares para quem melhorar em 10%.
+- A essência do aprendizado de máquina:
+  - Existe um padrão
+  - Não é possível contruir uma equação matemática
+  - Existem dados disponíveis
+
+(Aprendizagem de máquina é importante quanto você não tem idéia da relação entre as variáveis e da resposta)
+
+Metáfora: Problema da Aprovação de crédito
+
+<img src=".assets/tab1.jpg">
+
+- Aprovar crédito?
+  - se for muito rigoroso vai ter pouca venda mas pouca inadiplência
+  - se for rigoroso vai ter muita venda mas muita inadiplência
