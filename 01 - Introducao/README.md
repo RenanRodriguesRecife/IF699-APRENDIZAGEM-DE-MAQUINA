@@ -80,3 +80,18 @@ Metáfora: Problema da Aprovação de crédito
 - Racioncínio dedutivo - Existe os axiomas apartir dele você vai deduz algo
 ```
 
+## Exemplos
+
+- AM tem sido utilizado rotineiramente para descobrir informações valiosas de grandes bases contendo: 
+
+  - Registros de manutenção de equipamentos
+  
+  - Aplicações para empréstimos
+  
+  - Transações financeiras
+  
+  - Registros médicos
+  
+  - Genomas
+  
+18/62
