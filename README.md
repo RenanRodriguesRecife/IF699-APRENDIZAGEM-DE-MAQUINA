@@ -37,7 +37,7 @@ Cursos na web
 - Machine Learning
   - Andrew Ng
   - Stanford
-  - https://www.youtube.comwatchv=qeHZOdmJvFU&list=PLZ9qNFMHZA4rycgrgOYma6zxF4BZGGPW&index=1
+  - https://www.youtube.com/watch?v=PPLop4L2eGk&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN
 - Data Mining and Machine Learning
   - Wagner Meira
   - UFMG
