@@ -1,6 +1,14 @@
 # IF699-APRENDIZAGEM-DE-MAQUINA
 
 
+- Ementa
+  - Fundamentos da aprendizagem de m ́aquina
+  - Tipos de aprendizado
+  - Classifica ̧c ̃ao e Regress ̃ao
+  - Algoritmos de aprendizado supervisionado
+  - Algoritmos de aprendizado n ̃ao-supervisionado
+  - Avalia ̧c ̃ao de sistemas de aprendizado
+
 - Árvore de Decisão
 
 - k-NN
