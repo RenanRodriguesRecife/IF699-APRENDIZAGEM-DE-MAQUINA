@@ -30,7 +30,7 @@
 - Avaliação de Hipóteses
 
 
-Bibliografia B ́asica
+Bibliografia Básica
 
 - Tom Mitchell. Machine Learning. McGraw-Hill, 1997.
 - Richard O. Duda, Peter E. Hart and David G. Stork. Pattern Classification, Wiley-Intersicence, 2000.
