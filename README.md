@@ -41,7 +41,7 @@ Cursos na web
 - Data Mining and Machine Learning
   - Wagner Meira
   - UFMG
-  - https://www.youtube.com/channel/UCUN8yMTrizS5GGaGnyj9y g/featured
+  - https://www.youtube.com/channel/UCUN8yMTrizS5GGaGnyj9y_g/featured
 - Videos do Prof. Hansenclever (CIn/UFPE)
   - https://www.youtube.com/playlist?list=PL4-neXto5bGUpsE4FpO7T6BkLaSx_pyie
 
