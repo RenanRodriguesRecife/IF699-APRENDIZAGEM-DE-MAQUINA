@@ -156,3 +156,24 @@ Causar um impacto positivo na sociedade! (não é pra prejudicar a sociedade ou 
 
 - Aprendizagem por Reforço
 
+### Aprendizagem Supervisionada
+
+- Tem como objetivo inferir uma função de mapeamento a partir de um conjunto de dados de treino rotulados.
+
+- São fornecidos: entradas e saída desejadas rotuladas por um "Professor".
+
+<img src=".assets/agruprec.JPG">
+
+- O algoritmo de aprendizado (indutor) recebe um conjunto de exemplos de treinamento para os quais os rótulos da classe associada são conhecidos
+
+- Cada exemplo (instância ou padrão) é descrito por um vetor de valores (atributos) e pelo rótulo da classe associada.
+
+- O objetivo do indutor é construir um classificador que possa determinar corretamente a classe de novos exemplos ainda não rotulados
+
+- Para rótulos de classe discretos, esse problema é chamado de classificação e para valores contínuos como regressão.
+
+Exemplo: Reconhecimento de moedas
+
+<img src=".assets/moedas1.JPG">
+
+<img src=".assets/moedas2.JPG">
