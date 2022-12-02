@@ -177,3 +177,11 @@ Exemplo: Reconhecimento de moedas
 <img src=".assets/moedas1.JPG">
 
 <img src=".assets/moedas2.JPG">
+
+### Aprendizagem Não-Supervisionada
+
+- Tem como objetivo inferir uma função para descrever uma estrutura a partir de dados não-rotulados.
+
+- São fornecidas apenas as entradas e não há um professor ou supervisor para acompanhar o processo de aprendizado.
+
+<img src=".assets/naosuper.JPG">
