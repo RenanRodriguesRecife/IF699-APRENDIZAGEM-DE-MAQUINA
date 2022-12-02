@@ -94,4 +94,41 @@ Metáfora: Problema da Aprovação de crédito
   
   - Genomas
   
-18/62
+## Aprendizagem de Máquina
+
+- O que é aprendizagem ou eprendizado de máquina?
+  
+  - Arthur Samuel (1959): Aprendizagem de Máquina é o campo de estudo que dá ao computador a habilidade de aprender sem ser explicitamente programado
+  
+  - Tom Mitchell (1998): dizemos que um programa de computador aprende com a experiência E com relação a alguma classe de tarefas T e a medida de desempenho P, se seu desempenho nas tarefas em T, conforme medido por P, melhora com a experiência E. (Aprendizgem de máquina é o estudo de algoritmos de computadores que melhoram automaticamente atravéz da experiência).
+  
+Exemplo 1:
+
+- Detecção de bons clientes para um cartão de crédito
+
+  - Tarefa T: classificar potenciais novos clientes como bons ou maus pagadores.
+  - Medida de Desempenho P: porcentagem de clientes classificados corretamente
+  - Experiência de Treinamento E: uma base de dados histórica em que os clientes já conhecidos são previamente classificados como bons ou maus pagadores.
+  
+Exemplo 2:
+
+- Reconhecimento de caracteres manuscritos
+
+  - Tarefa T: reconhecer e classificar caracteres manuscritos
+  - Medida de Desempenho P: percentagem de caracteres classificados corretamente
+  - Experiência de Treinamento E: Base de dados de caracteres manuscritos com a respectiva classificação.
+  
+## Como aprendizagem de máquina funciona?
+
+<img src=".assets/fun1.JPG">
+
+
+
+
+
+
+
+
+
+
+
