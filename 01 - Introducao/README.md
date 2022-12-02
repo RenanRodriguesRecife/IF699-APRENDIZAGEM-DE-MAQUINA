@@ -137,12 +137,22 @@ Exemplo 2:
 
 Causar um impacto positivo na sociedade! (não é pra prejudicar a sociedade ou criar uma máquina que vai matar todo mundo)
 
-25
+- Tarefas difíceis de especificar, porém **possíveis de se aprender a partir de exemplos**, como humanos fazem.
+
+- Categorias de problemas tipicamente tratados por AM:
+
+<img src=".assets/cat1.JPG">
+
+<img src=".assets/classreg.JPG">
+
+<img src=".assets/agrurec.JPG">
 
 
+## Paradigmas de aprendizagem de máquina:
 
+- Aprendizagem Supervisionada
 
+- Aprendizagem Não Supervisionada
 
-
-
+- Aprendizagem por Reforço
 
