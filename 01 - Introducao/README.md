@@ -122,8 +122,22 @@ Exemplo 2:
 
 <img src=".assets/fun1.JPG">
 
+- Técnicas de AM
 
+  - Ajustam seus parâmetros em uma **fase de treinamento**
+    - Utiliza **conjunto** de dados de **treinamento**
 
+  - Avaliam seu desempenho para novos dados em, uma **fase de teste** (ou validação)
+    - Utiliza **conjunto** de dados de **teste**
+
+  - Desempenho depende da representatividade dos exemplos
+    - Aprendizado é mais confiável quando exemplos de treinamento seguem uma **distribuição** semelhante à dos **exemplos de teste**
+
+### Aprendizagem de máquina para que? 
+
+Causar um impacto positivo na sociedade! (não é pra prejudicar a sociedade ou criar uma máquina que vai matar todo mundo)
+
+25
 
 
 
