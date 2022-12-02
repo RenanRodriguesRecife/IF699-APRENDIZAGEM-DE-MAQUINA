@@ -120,7 +120,7 @@ Exemplo 2:
   
 ## Como aprendizagem de máquina funciona?
 
-<img src=".assets/fun1.JPG">
+<img src=".assets/tab1.jpg">
 
 - Técnicas de AM
 
@@ -141,11 +141,11 @@ Causar um impacto positivo na sociedade! (não é pra prejudicar a sociedade ou 
 
 - Categorias de problemas tipicamente tratados por AM:
 
-<img src=".assets/cat1.JPG">
+<img src=".assets/categ1.JPG">
 
 <img src=".assets/classreg.JPG">
 
-<img src=".assets/agrurec.JPG">
+<img src=".assets/agruprec.JPG">
 
 
 ## Paradigmas de aprendizagem de máquina:
