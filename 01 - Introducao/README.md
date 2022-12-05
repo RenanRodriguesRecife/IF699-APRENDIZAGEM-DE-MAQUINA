@@ -188,4 +188,19 @@ Exemplo: Reconhecimento de moedas
 
 - O indutor analisa os exemplos fornecidos e tena determinar se alguns deles podem ser agrupados de alguma maneira, formando agrupamento ou clusters.
 
-- Após a determinação dos agrupamentos, em geral, é necessário uma análise para determinar o que cada agrupamento significa no constexto problma sendo analisado.
+- Após a determinação dos agrupamentos, em geral, é necessário uma análise para determinar o que cada agrupamento significa no constexto problema sendo analisado.
+
+<img src=".assets/ap1.JPG">
+
+<img src=".assets/ap2.JPG">
+
+<img src=".assets/ap2.JPG">
+
+- Aprendizado Semi-supervisionado
+
+- Aprendizado por Reforço
+
+- Aprendizado Online e Em Loto
+
+- Aprendizado baseado em Instancia (preguiçoso) Versus Aprendizado baseado no Modelo (guloso)
+
