@@ -204,3 +204,10 @@ Exemplo: Reconhecimento de moedas
 
 - Aprendizado baseado em Instancia (preguiçoso) Versus Aprendizado baseado no Modelo (guloso)
 
+### Aprendizagem Por Reforço
+
+- Aprendizagem orientada ao agente, o qual aprende interagindo com o ambiente por tentativa e erro.
+
+- Recebe um estado (S) de ambiente, realiza uma ação (A) e recebe como resposta um sinal de reforço (R) que apenas informa o quão bom/ruim foram as ações tomadas até aqui.
+
+<img src=".assets/ar.JPG">
