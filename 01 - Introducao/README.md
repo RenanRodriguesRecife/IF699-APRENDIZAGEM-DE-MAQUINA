@@ -211,3 +211,60 @@ Exemplo: Reconhecimento de moedas
 - Recebe um estado (S) de ambiente, realiza uma ação (A) e recebe como resposta um sinal de reforço (R) que apenas informa o quão bom/ruim foram as ações tomadas até aqui.
 
 <img src=".assets/ar.JPG">
+
+### Paradigmas de AM
+
+- Simbólico
+
+- Baseado em Instancias
+
+- Estatístico
+
+- Conexionista
+
+- Evolucionário
+
+#### Paradigma Simbólico
+
+- Constrói representações simbólicas de um conceito através da análise de seus exemplos e contra-exemplos
+
+- Representações simbólicas geralmente assumem a forma de:
+  - Expressão lógica
+  - Arvore de decisão
+  - Regras de produção
+  - Rede semantica
+  
+ #### Paradigma Baseado em Instancias
+ 
+ - Classificam novos dados utilizando dados similares cuja classe é conhecida
+ 
+ - Análogo ao que fazemos para resolver novos problemas
+ 
+ - Exemplo: Raciocínio Baseado em Casos e K-vizinhos mais próximos.
+ 
+ #### Paradigma Estatístico
+ 
+ - Constrói um modelo estatítico do problema geralmente utilizando a **regra de Bayes**
+ 
+ - Podem ser:
+  - Paramétricas
+  - Não paraméticas
+  - Semi-paramétricas
+
+#### Paradigma Evolucionário
+
+- Computação Evolucionária (ou evolutiva)
+  - Sistemas para a resolução de problemas que utilizam modelos computacionais baseados na teoria da evolução natural
+  
+  - Também chamados de algoritmos evolucionários
+  
+  - Inclui os **Algoritmos Genéticos**
+ 
+#### Paradigma Conexionista
+
+- Redes Neurais Artificiais
+  - Estruturas distribuídas
+    - Formadas por um grande número de unidades de processamento conectadas entre si
+    
+  - São pesquisadas em várias disciplinas:
+    - Biologia, Ciencia da Computação, Engenharias, Estatística, Filosofia, Física, Linguística, Matemática, Psicologia,...
