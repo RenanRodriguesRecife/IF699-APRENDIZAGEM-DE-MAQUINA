@@ -185,3 +185,7 @@ Exemplo: Reconhecimento de moedas
 - São fornecidas apenas as entradas e não há um professor ou supervisor para acompanhar o processo de aprendizado.
 
 <img src=".assets/naosuper.JPG">
+
+- O indutor analisa os exemplos fornecidos e tena determinar se alguns deles podem ser agrupados de alguma maneira, formando agrupamento ou clusters.
+
+- Após a determinação dos agrupamentos, em geral, é necessário uma análise para determinar o que cada agrupamento significa no constexto problma sendo analisado.
