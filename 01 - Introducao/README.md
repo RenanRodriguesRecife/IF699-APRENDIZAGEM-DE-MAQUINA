@@ -426,3 +426,14 @@ do vetor de atributos dado a varivel resposta
     
     <img src=".assets/precisãoClassi.JPG">
     
+    - Erro de Regressão: calcula-se a distância entre o valor real com o atribuído pela hipótese induzida. Pode-se usar: erro médio quadrado ou a distância absoluta média.
+    
+    <img src=".assets/erroReg.JPG">
+    
+    
+#### Recursos: Datasets
+
+- UCI Repository: http://www.ics.uci.edu/~mlearn/MLReposiory.html
+- UCI KDD Archive: http://kdd.ics.uci.edu/summary.data.application.html
+- Statlib: http://lib.stat.cmu.edu/
+- Delve: http://www.cs.utoronto.ca/~delve/
