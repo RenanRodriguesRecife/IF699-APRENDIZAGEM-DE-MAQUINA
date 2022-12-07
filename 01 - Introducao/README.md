@@ -424,7 +424,7 @@ do vetor de atributos dado a varivel resposta
     
     - Precisão do Classificador: complemento da taxa de erro denotado por acc(h)
     
-    <img src=".assets/precisãoClassi.JPG">
+    <img src=".assets/precisaoClassi.JPG">
     
     - Erro de Regressão: calcula-se a distância entre o valor real com o atribuído pela hipótese induzida. Pode-se usar: erro médio quadrado ou a distância absoluta média.
     
