@@ -421,3 +421,8 @@ do vetor de atributos dado a varivel resposta
     - Compara a classe verdadeira de cada exemplo com o rótulo atribuído pelo classificador induzido.
     
     <img src=".assets/tErro.JPG">
+    
+    - Precisão do Classificador: complemento da taxa de erro denotado por acc(h)
+    
+    <img src=".assets/precisãoClassi.JPG">
+    
