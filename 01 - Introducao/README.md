@@ -338,3 +338,86 @@ do vetor de atributos dado a varivel resposta
   - Regressão: valores reais
   
 ## Escala Nominal ou Categórica
+
+- Valores são símbolos distintos que servem apenas para rotular ou identificar
+  - Atributo "Sexo": Masculino e Feminino
+  - Atributo "Religião": Católica, Protestante, Budismo,...
+  - Atributo "Partido Político": DEM, PT, PSDB,...
+  
+- Não existem relações entre valores nominais - ordenação ou distância
+  - Não faz sentido o teste "Masculino > Feminino"
+  
+- Apenas testes de igualdade podem ser feitos
+  - "Sexo" = Masculino
+  
+## Escala Ordinal
+
+- Os valores podem ser ordenados ou ranqueados 
+  - Toda subclasse pode ser comparada com uma outra em termos de uma relação da forma "maior que" ou "monor que"
+    - Atrubuto "Temperatura": Quente > Morno > Frio (no entanto, não faz sentido "Quente + Frio" ou "2*Morno")
+  
+  - Distinção entre Nominal e Ordinal não é sempre clara
+    - Atributo "Tempo": Ensolarado, Nublado, Chuvoso
+    
+## Escala Intervalar
+
+  - Quantidades intervalares além de ordenadas, também possuem unidades constantes de medidas
+    - Diferenças entre quaisquer dois pontos adjacentes em qualquer parte da escala são iguais
+    
+    - O ponto zero é arbitrário
+      - Soma e produto não fazem sentido
+      
+    - As escalas intervalares mais familiares são as escalas de temperatura Fahrenheit e Celsius
+    
+      - Cada uma tem um ponto zero arbitrário e nenhum indica uma quantia nula ou ausência de temperatura
+        - Podemos dizer que 80F tem o dobro de temperatura de 40F?
+        
+## Escala de Razão
+
+- Defere da escala intervalar por possuir um zero absoluto
+
+  - Todas as operações matemáticas são possíveis com medidas em escala de razão
+    - Números rais
+    
+   - Atributo "Distância": a distância entre um objeto e ele mesmo é zero
+   
+   - Atributo "Peso": os aparelhos usados para medir peso têm um ponto zero absoluto
+   
+## Para que tipos específicos de atributos?
+
+- Compreender os deferentes tipos de escalas de medidas é importante por duas razões:
+  - O pesquisador deve identificar a escala de medida de cada atributo usado, de forma que dados não-métricos não sejam incorretamente usados como dados métricos e vice-versa.
+    - "Partido Político" > PSB não faz sentido, enquanto que "Temperatura" > Frio ou "Peso" < 38 fazem
+    
+   - A escala de medida é crítica ao determinar que algoritmos de aprendizado de máquina são mais apropriados.
+   
+ ## Concaitos e Definições
+ 
+ - Conjunto de exemplos: um conjunto de exemplo é composto por exemplos contendo valores de atributos bem como a classe associada.
+ 
+ <img src="tab1.JPG">
+ 
+ - Classificador ou Hipótese: dado um conjunto de exemplos de treinamento, um indutor gera como saída um classificador (também denominado hipótese ou descrição de conceito) de forma que, dado um novo exemplo, ele possa predizer com a maio precisão possível sua classe.
+ 
+ - Ruído: é comum no mundo real, trabalhar com dados imperfeitos. Eles podem ser derivados do próprio processo que gerou os dados, do processo de aquisição de dados, do processo de transformação ou mesmo devido a classes rotuladas incorretamente (por exemplo, exemplos com os mesmos valores de atributos mas com classes diferentes).
+ 
+ - Missing Values (Valores Perdidos): em geral, indicados por valores fora do escopo
+    - Tipos: desconhecidos, não registrados, irrelevantes
+    - Razões
+      - Mau-funcionamento do equipamento
+      - Mudanças na definição do experimento
+      - Incapacidade de mesuração
+      
+  - Valores perdidos podem, de fato, significar alguma coisa
+    - A maioria dos métodos de aprendizado não assumem isto
+    - No entanto, este tipo de informação pode ser codificado como um valor adicional
+    
+  - Modo de aprendizado:
+    - Não incremental (batch): sempre que todo o conjunto de treinamento deva estar presente para o aprendizado.
+    - Incremental: O indutor apenas tenta atualizar a hipótese antiga sempre que novos exemplos são adicionados ao conjunto de treinamento.
+    
+  - Taxa de Erro de um classificador h:
+  
+    - Compara a classe verdadeira de cada exemplo com o rótulo atribuído pelo classificador induzido.
+    
+    <img src=".assets/tErro.JPG">
