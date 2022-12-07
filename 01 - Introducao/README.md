@@ -313,3 +313,28 @@ variaveis descritivas
   - A probabilidade a posteriori da variavel resposta ́e obtida
 atraves do terorema de Bayes via a probabilidade condicional
 do vetor de atributos dado a varivel resposta
+
+
+## Desafios do Aprendizado de Máquina
+
+- Quantidade Insuficiente de Dados de Treinamento
+- Dados de Treinamento N ̃ao Representativos
+- Dados de Baixa Qualidade
+- Caracter ́ısticas Irrelevantes
+- Sobreajustamento
+- Subajustamento
+
+# Conceitos e Definições
+
+- Exemplo (caso, registor ou dado) é uma tupla de valores de atributos
+  - Um paciente, dados médicos sobre uma determinada doença
+ 
+- Atributo: descreve uma característica ou um aspecto de um exemplo
+  - Normal: cor
+  - Contínuo: peso
+  
+- Classe: atributo especial (aprendizado supervisionado), denominado rótulo ou classe.
+  - Classificação: discreto ou nominal C1, C2,... Ck
+  - Regressão: valores reais
+  
+## Escala Nominal ou Categórica
