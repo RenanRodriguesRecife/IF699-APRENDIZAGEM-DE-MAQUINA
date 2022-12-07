@@ -268,3 +268,48 @@ Exemplo: Reconhecimento de moedas
     
   - São pesquisadas em várias disciplinas:
     - Biologia, Ciencia da Computação, Engenharias, Estatística, Filosofia, Física, Linguística, Matemática, Psicologia,...
+
+
+### Abordagens de aprendizagem
+
+- Abordagens supervisionadas
+  - Técnica centrada: Métodos de seleção de características, Probabilística métodos, árvores de decisão, métodos baseados em regras, baseados em instâncias aprendizado, classificadores SVM, redes neurais
+
+  - Data-Type centrado: dados de grande escala (big data, data
+fluxos), classificação de texto, classificação de multimídia, tempo
+classificação de dados em série e sequência, dados de rede
+classificação, classificação de dados de incerteza
+
+  - Variações: aprendizado de classe rara, aprendizado de funções a distância, Aprendizagem conjunta, aprendizagem semi-supervisionada, aprendizagem por transferência, aprendizagem ativa, aprendizagem visual
+  
+  
+ - Abordagens não supervisionadas
+  - Técnica centrada: Métodos de seleção de características, Probabilística modelos, algoritmos baseados em distância, baseados em densidade e grade métodos, métodos de redução de dimensionalidade (generative modelos, fatoração de matrizes, co-agrupamento, métodos espectrais), Técnicas escaláveis (algoritmos de streaming, big data
+estrutura)
+
+  - Centrado no tipo de dados: dados categóricos, dados de texto, multimédia dados, dados temporais, sequências discretas, dados de rede, dados de incerteza 
+  
+  - Variações: agrupamento visual, insights supervisionados, multivisualização e agrupamento baseado em ensemble
+  
+ 
+## Aprendizagem Generativa x Discriminativa
+
+- Aprendizagem discriminativa
+
+  - Dependencia funcional entre a variavel resposta e as variaveis
+descritivas
+
+  - Desconsidera as rela ̧c ̃oes estatisticas entre a variavel resposta e
+as variaveis descritivas
+
+  - Modela diretamente a probabilidade a posteriori da variavel
+resposta dado o vetor de atributos
+
+- Aprendizagem Generativa
+
+  - Considera as relações estatisticas entre a variavel resposta e as
+variaveis descritivas
+
+  - A probabilidade a posteriori da variavel resposta ́e obtida
+atraves do terorema de Bayes via a probabilidade condicional
+do vetor de atributos dado a varivel resposta
