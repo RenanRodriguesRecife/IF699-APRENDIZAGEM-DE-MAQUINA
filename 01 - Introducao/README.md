@@ -395,7 +395,7 @@ do vetor de atributos dado a varivel resposta
  
  - Conjunto de exemplos: um conjunto de exemplo é composto por exemplos contendo valores de atributos bem como a classe associada.
  
- <img src="tab1.JPG">
+ <img src=".assets/tab1.JPG">
  
  - Classificador ou Hipótese: dado um conjunto de exemplos de treinamento, um indutor gera como saída um classificador (também denominado hipótese ou descrição de conceito) de forma que, dado um novo exemplo, ele possa predizer com a maio precisão possível sua classe.
  
