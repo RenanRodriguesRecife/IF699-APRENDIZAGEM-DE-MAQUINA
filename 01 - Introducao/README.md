@@ -2,7 +2,7 @@
 
 ## Deferença AM x AI
 
-- Exemplo: Crair um algoritmo para Previsão de Span
+- Exemplo: Criar um algoritmo para Previsão de Span
 
 - Método tradicional
   - programação explicita de condições
@@ -29,8 +29,7 @@
   - . . .
   
 - Aprendizagem de Máquina (AM)
-  - Objetivo: fazer um computador aprender a realizar uma
-determinada tarefa sem instruir explicitamente como faze-lo
+  - Objetivo: fazer um computador aprender a realizar uma determinada tarefa sem instruir explicitamente como faze-lo
   - o desempenho melhora
 
 
