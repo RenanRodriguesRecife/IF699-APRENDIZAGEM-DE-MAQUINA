@@ -4,7 +4,11 @@
 - Álgebra linear
 
 
+Base matemática:
 
+- Mudança de base logaritmo
+
+<img src="">
 
 Fontes: 
 
