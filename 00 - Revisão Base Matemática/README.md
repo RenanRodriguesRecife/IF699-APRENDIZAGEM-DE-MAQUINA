@@ -8,7 +8,7 @@ Base matemática:
 
 - Mudança de base logaritmo
 
-<img src="">
+<img src="mudanca-base-logaritmo.jpg">
 
 Fontes: 
 
