@@ -10,11 +10,21 @@ Base matemática:
 
 <img src="mudanca-base-logaritmo.jpg">
 
-- # Cardinal
+- Cardinal
 
 pode ser denotada por n(A), |A| ou #A
 
 Basicamente é o número de elementos de um conjunto
+
+- Integral
+
+- Função transposta X' 
+
+obtida transportando-se ordenadamente os elementos das linhas de A para as colunas da transposta
+
+<img src="matriz-transposta-1.jpg">
+
+(produto interno linha x coluna)
 
 
 Fontes: 
