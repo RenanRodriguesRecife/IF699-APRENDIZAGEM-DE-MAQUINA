@@ -153,7 +153,7 @@ Causar um impacto positivo na sociedade! (não é pra prejudicar a sociedade ou 
 
 - Aprendizagem Não Supervisionada
 
-- Aprendizagem por Reforço
+- Aprendizagem por Reforço (robótica)
 
 ### Aprendizagem Supervisionada
 
@@ -195,11 +195,11 @@ Exemplo: Reconhecimento de moedas
 
 <img src=".assets/ap2.JPG">
 
-- Aprendizado Semi-supervisionado
+- Aprendizado Semi-supervisionado (Aprendizado tem um viez não supervisionado)
 
 - Aprendizado por Reforço
 
-- Aprendizado Online e Em Loto
+- Aprendizado Online e Em Lote (Apresenta todos os dados de uma vez só)
 
 - Aprendizado baseado em Instancia (preguiçoso) Versus Aprendizado baseado no Modelo (guloso)
 
@@ -225,7 +225,7 @@ Exemplo: Reconhecimento de moedas
 
 #### Paradigma Simbólico
 
-- Constrói representações simbólicas de um conceito através da análise de seus exemplos e contra-exemplos
+- Constrói representações simbólicas de um conceito através da análise de seus exemplos e contra-exemplos (regra baseada em exemplos)
 
 - Representações simbólicas geralmente assumem a forma de:
   - Expressão lógica
@@ -235,7 +235,7 @@ Exemplo: Reconhecimento de moedas
   
  #### Paradigma Baseado em Instancias
  
- - Classificam novos dados utilizando dados similares cuja classe é conhecida
+ - Classificam novos dados utilizando dados similares cuja classe é conhecida (procura coisas parecida exemplo similares)
  
  - Análogo ao que fazemos para resolver novos problemas
  
