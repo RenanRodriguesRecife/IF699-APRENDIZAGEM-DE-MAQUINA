@@ -436,3 +436,6 @@ do vetor de atributos dado a varivel resposta
 - UCI KDD Archive: http://kdd.ics.uci.edu/summary.data.application.html
 - Statlib: http://lib.stat.cmu.edu/
 - Delve: http://www.cs.utoronto.ca/~delve/
+
+
+- Modelo bom não é modelo complexo é modelo simples que funciona
