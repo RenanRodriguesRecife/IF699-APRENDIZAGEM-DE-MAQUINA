@@ -71,7 +71,7 @@ Formas não paramétrica
 
 aprendizado preguiçoso
 - possuem mais de um máximo local
-<img src="">
+<img src="maximos.jpg">
 probabilidade posteriori
 k-vizinhos
 
