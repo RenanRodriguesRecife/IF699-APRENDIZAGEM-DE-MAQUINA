@@ -65,3 +65,13 @@ Bibliografia Complementar
 
 
 https://sites.google.com/site/aprendizagemmaquina/aulas
+
+
+Formas não paramétrica
+
+aprendizado preguiçoso
+- possuem mais de um máximo local
+<img src="">
+probabilidade posteriori
+k-vizinhos
+
