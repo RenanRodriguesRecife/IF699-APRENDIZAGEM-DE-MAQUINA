@@ -223,7 +223,7 @@ Exemplo: Reconhecimento de moedas
 
 - Conexionista
 
-- Evolucionário
+- Evolucionário (Genético)
 
 #### Paradigma Simbólico
 
@@ -243,6 +243,8 @@ Exemplo: Reconhecimento de moedas
  
  - Exemplo: Raciocínio Baseado em Casos e K-vizinhos mais próximos.
  
+ O paradigma baseado em instâncias é considerado como preguiçoso pois não existe um treinamento.
+ 
  #### Paradigma Estatístico
  
  - Constrói um modelo estatítico do problema geralmente utilizando a **regra de Bayes**
@@ -252,7 +254,7 @@ Exemplo: Reconhecimento de moedas
   - Não paraméticas
   - Semi-paramétricas
 
-#### Paradigma Evolucionário
+#### Paradigma Evolucionário (Genético)
 
 - Computação Evolucionária (ou evolutiva)
   - Sistemas para a resolução de problemas que utilizam modelos computacionais baseados na teoria da evolução natural
@@ -260,8 +262,12 @@ Exemplo: Reconhecimento de moedas
   - Também chamados de algoritmos evolucionários
   
   - Inclui os **Algoritmos Genéticos**
+  
+ Você tem classificadores que vão competir entre si para decidir qual é o mais viável (muito bom para problemas buscas e sistemas de autoML)
  
 #### Paradigma Conexionista
+
+construções matemáticas simplificadas impiradas no modelo biológico.
 
 - Redes Neurais Artificiais
   - Estruturas distribuídas
@@ -270,6 +276,7 @@ Exemplo: Reconhecimento de moedas
   - São pesquisadas em várias disciplinas:
     - Biologia, Ciencia da Computação, Engenharias, Estatística, Filosofia, Física, Linguística, Matemática, Psicologia,...
 
+- Tem uma série de outros problemas não é apropriada. (Não existe uma bala de prata para tudo).
 
 ### Abordagens de aprendizagem
 
