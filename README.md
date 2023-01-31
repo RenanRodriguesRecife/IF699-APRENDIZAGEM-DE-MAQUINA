@@ -66,7 +66,7 @@ Bibliografia Complementar
 
 https://sites.google.com/site/aprendizagemmaquina/aulas
 
-
+===============
 Formas não paramétrica
 
 aprendizado preguiçoso
