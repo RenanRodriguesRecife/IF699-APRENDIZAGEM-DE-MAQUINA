@@ -441,3 +441,9 @@ do vetor de atributos dado a varivel resposta
 
 
 - Modelo bom não é modelo complexo é modelo simples que funciona
+
+```
+- Processamento de liguagem natural (é texto convertido para número)
+
+- Assim como processamnto de imagem também é imagem convertido para número
+```
