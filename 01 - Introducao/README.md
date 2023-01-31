@@ -76,7 +76,7 @@ Metáfora: Problema da Aprovação de crédito
   
 
 ```
-- Raciocínio indutivo - Parte dos exemplos que vai falhando...até deduzir algo
+- Raciocínio indutivo - Parte dos exemplos que vai falhando...até deduzir algo (todo aprendizagem de máquina trabalha com o modelo indutivo)
 
 - Racioncínio dedutivo - Existe os axiomas apartir dele você vai deduz algo
 ```
