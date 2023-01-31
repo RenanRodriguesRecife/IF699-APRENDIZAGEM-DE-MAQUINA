@@ -447,3 +447,7 @@ do vetor de atributos dado a varivel resposta
 
 - Assim como processamnto de imagem também é imagem convertido para número
 ```
+
+```
+- O vies da IA se dá mais de quem elaborou o sistema do que o método em si.
+```
