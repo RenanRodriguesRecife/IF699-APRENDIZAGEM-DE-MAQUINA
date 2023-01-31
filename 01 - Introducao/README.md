@@ -1,5 +1,7 @@
 # Introdução
 
+Machine Learning - modelos que vão tomar decisões com base na experiência
+
 ## Deferença AM x AI
 
 - Exemplo: Criar um algoritmo para Previsão de Span
