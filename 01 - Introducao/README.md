@@ -458,3 +458,29 @@ do vetor de atributos dado a varivel resposta
 ```
 - O vies da IA se dá mais de quem elaborou o sistema do que o método em si.
 ```
+
+```
+Nem sempre a precisão é o mais buscado. As vezes você vai precisar colocar em um sistema embarcado. Ou as vezes você precisa de maior velocidade do aprendizado.
+```
+
+```
+Modelos de aprendizagem de máquina não trabalham com dados ausentes. Cabe ao pesquisador tratar isso.
+```
+
+```
+O conjunto de treinamento dev ser muito melhor bem tratado que o modelo de teste
+```
+
+```
+você sempre vai ter um desempenho melhor no conjunto de treinamento que nos testes (é natural)
+```
+
+```
+não se busca o modelo que aprenda tudo no treinamento e sim o modelo que identifique o padrão de treinamento
+
+```
+
+```
+O undefilt acontece quando está calibrando o modelo.
+- Deve se parar antes do classificado overfit
+```
