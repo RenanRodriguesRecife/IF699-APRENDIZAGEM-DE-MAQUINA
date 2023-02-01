@@ -75,3 +75,7 @@ aprendizado preguiçoso
 probabilidade posteriori
 k-vizinhos
 
+
+
+LVQ - https://edisciplinas.usp.br/pluginfile.php/5389403/mod_resource/content/1/RNA_Aula11.pdf
+
