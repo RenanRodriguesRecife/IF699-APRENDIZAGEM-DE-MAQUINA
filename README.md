@@ -6,7 +6,7 @@
   - Tipos de aprendizado
   - Classificação e Regressão
   - Algoritmos de aprendizado supervisionado
-  - Algoritmos de aprendizado n ̃ao-supervisionado
+  - Algoritmos de aprendizado não-supervisionado
   - Avaliação de sistemas de aprendizado
 
 - Árvore de Decisão
