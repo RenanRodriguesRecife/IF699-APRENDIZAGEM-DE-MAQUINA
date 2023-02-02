@@ -79,3 +79,11 @@ k-vizinhos
 
 LVQ - https://edisciplinas.usp.br/pluginfile.php/5389403/mod_resource/content/1/RNA_Aula11.pdf
 
+===========================
+
+
+O desempenho médio é sempre mais seguro que o desempenho individual (por isso uso o sistema de validação cruzada)
+
+- Cada vez que você executa o código dá um resultado diferente. O ideal é você partir de um conjunto único (de treinamento, teste,validação). O train_test_split é importante partir de uma semente comum. (?)
+
+=================
