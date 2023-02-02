@@ -4,10 +4,10 @@
 ### Ementa
   - Fundamentos da aprendizagem de máquina
   - Tipos de aprendizado
-  - Classifica ̧c ̃ao e Regress ̃ao
+  - Classificação e Regressão
   - Algoritmos de aprendizado supervisionado
   - Algoritmos de aprendizado n ̃ao-supervisionado
-  - Avalia ̧c ̃ao de sistemas de aprendizado
+  - Avaliação de sistemas de aprendizado
 
 - Árvore de Decisão
 
