@@ -20,6 +20,11 @@ K-means robusto-mediana
 
 k-means classico - média
 
+============================
+
+
+
+
 ===========================
 
 O K-Means é um algoritmo de clustering usado para identificar grupos (ou "clusters") semelhantes em um conjunto de dados. Aqui está uma visão geral do processo de funcionamento do K-Means:
