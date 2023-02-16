@@ -1,4 +1,20 @@
- O K-Means é um algoritmo de clustering usado para identificar grupos (ou "clusters") semelhantes em um conjunto de dados. Aqui está uma visão geral do processo de funcionamento do K-Means:
+Partição: Um objeto só pertence a um grupo
+
+  Partição: Não exclusiva: Fuzzy - grau de pertensimento
+
+Cobertura: Um exmplo pode está em um ou dois grupos (estrutura mais difícil de ter)
+
+Existe várias abordagens mas todas elas ou produzem uma hierarquia ou uma partição
+
+As estruturas tem vários viês
+
+k-means é o mais usado pois é simples e rápido
+
+Não dá para fazer busca exaustiva e passa a fazer algoritmo interativo.
+
+===========================
+
+O K-Means é um algoritmo de clustering usado para identificar grupos (ou "clusters") semelhantes em um conjunto de dados. Aqui está uma visão geral do processo de funcionamento do K-Means:
  
 1. Especificação do número de clusters (K): O primeiro passo é especificar o número de clusters que você deseja encontrar em seus dados. Este número é chamado de "K".
 
