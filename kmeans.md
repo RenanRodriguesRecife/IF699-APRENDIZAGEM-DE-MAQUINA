@@ -12,6 +12,14 @@ k-means é o mais usado pois é simples e rápido
 
 Não dá para fazer busca exaustiva e passa a fazer algoritmo interativo.
 
+A função objetivo não deixa a comparação tão aberrante comparado com a mediana
+
+O protótipo depende da distância que você usa
+
+K-means robusto-mediana
+
+k-means classico - média
+
 ===========================
 
 O K-Means é um algoritmo de clustering usado para identificar grupos (ou "clusters") semelhantes em um conjunto de dados. Aqui está uma visão geral do processo de funcionamento do K-Means:
