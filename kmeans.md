@@ -22,7 +22,23 @@ k-means classico - média
 
 ============================
 
+Aprendizado não supervisionado agrupamento
 
+Objetivo - obter grupos homogênio e bem separado
+
+Pesquisar matriz de contigência
+
+indice (só se compara valores de mesma base)
+
+F-mesure (não supervisionado)
+
+Quanto mais próximo de 1 mais semelhante é as duas partições
+
+Xie and Ben - O que tiver o valor menor é mais homogênia e bem separado
+
+Silhoeuette -
+
+Quanto for usar indice evlerno você 
 
 
 ===========================
