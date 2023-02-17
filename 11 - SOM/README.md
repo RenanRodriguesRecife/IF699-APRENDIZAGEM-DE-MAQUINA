@@ -43,9 +43,34 @@ O mapa é uma representação discretizada em dimensão reduzida dos dados de en
 
 <img src="fdsf">
 
+- O peso da conexão de cada neurônio é protótipo associado à ele
 
+- Uma rede de 2 camadas fornece uma representação simultânea do mapa e dos protótipos
+
+- O treinamento do mapa pode ser incremental ou por lote.
 
 ========================================
+
+### Treinamento
+
+- Competição: para agrupar os dados: o neurônio vencedor leva tudo
+
+- Adaptação: o neurônio vencedor se ajusta para representar melhor o padrão.
+
+- Cooperação: Os vizinhos também são ajustados proporcionalmente a sua distância para o vencedor.
+
+#### Treinamento Incremental
+
+- Apresenta-se um vetor de entrada (aleatória ou sequencialmente) à rede
+
+##### Competição
+
+  - O BMU (best matching unit) é o neuronio cujo protótipo é o mais similar (ou o menos dissimilar) ao vetor de entrada.
+  
+  - se b é o BMU do vetor de entrada x 
+
+
+======================================
 
 Quatization Error
 
