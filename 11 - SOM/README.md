@@ -1,5 +1,5 @@
 
-# SOM - Mapas Auto-Organiz aveis de Kohonen (SOM)
+# SOM - Mapas Auto-Organizáveis de Kohonen (SOM)
 
 SOM  ́e uma rede neural artificial (Kohonen, 1995) que realiza simultaneamente agrupamento evisualização
 
