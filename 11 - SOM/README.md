@@ -29,6 +29,24 @@ O mapa é uma representação discretizada em dimensão reduzida dos dados de en
 
 ====================================
 
+- Um mapa tem K neuronios organizados geralmente em um reticulado retangular ou hexagonal
+
+- A rede SOM tem duas camadas
+
+  - uma camada de entrada (que cont ́em os objetos)
+
+  - uma camada de representa ̧c ̃ao (mapa neuronal) cuja topologia é definida pela distância entre os neuronios e a função de vizinhança
+
+- A cada neuronio é associado um protótipo no mesmo espaço de descrição dos objetos
+
+- Todo neurônio é completamente conectado à camada de entrada
+
+<img src="fdsf">
+
+
+
+========================================
+
 Quatization Error
 
   mede a qualidade do mapa (não dá partição)
