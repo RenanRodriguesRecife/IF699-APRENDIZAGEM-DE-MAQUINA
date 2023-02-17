@@ -33,13 +33,13 @@ indice (só se compara valores de mesma base)
 
 F-mesure (não supervisionado)
 
-Quanto mais próximo de 1 mais semelhante é as duas partições
+  Quanto mais próximo de 1 mais semelhante é as duas partições
 
 Xie and Ben - O que tiver o valor menor é mais homogênia e bem separado
 
 Silhoeuette -
 
-Quanto for usar indice evlerno você 
+Quanto for usar indice externo você  vai ter que passar do Fuzzy para o crisp.
 
 
 ===========================
